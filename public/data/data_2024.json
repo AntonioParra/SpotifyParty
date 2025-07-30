@@ -1,0 +1,390 @@
+{
+    "year": 2024,
+    "people": [
+        {
+            "name": "Marta",
+            "songs": [
+                {
+                    "name": "Blue Ridge Mountains",
+                    "artist": "Fleet Foxes",
+                    "link": "https://open.spotify.com/intl-es/track/7bzzC7QIfflM9eEj2aqaYX",
+                    "image": "https://i.scdn.co/image/ab67616d00001e023818b4c636e2a7fdea3bf965"
+                },
+                {
+                    "name": "A Perfect Day Elise",
+                    "artist": "PJ Harvey",
+                    "link": "https://open.spotify.com/intl-es/track/1TvQVmNarYyU0d4wARLlX8",
+                    "image": "https://i.scdn.co/image/ab67616d00001e020927e8d8299223187f1d8d04"
+                },
+                {
+                    "name": "Mykonos",
+                    "artist": "Fleet Foxes",
+                    "link": "https://open.spotify.com/intl-es/track/7H71gZwWs3xPWnHM30NDUp",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02a657d99c92371a1726f18b77"
+                },
+                {
+                    "name": "Ha sido divertido",
+                    "artist": "Nudozurdo",
+                    "link": "https://open.spotify.com/intl-es/track/1Vw014wUxIQWZgw7ahQZz6",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0286d4175ef0eab7d959df419f"
+                },
+                {
+                    "name": "You Came To Me",
+                    "artist": "Beach House",
+                    "link": "https://open.spotify.com/intl-es/track/6PB7R41AktgVRoJHE3XlWr",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02cad79d4a8ac2e2acc58dbfef"
+                }
+            ]
+        },
+        {
+            "name": "Toby",
+            "songs": [
+                {
+                    "name": "I Want Your Video",
+                    "artist": "Djo",
+                    "link": "https://open.spotify.com/intl-es/track/7KnGAY27aFqgiYySwt7yg5",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1"
+                },
+                {
+                    "name": "Breathe (feat. Sean Paul)",
+                    "artist": "Blu Cantrell",
+                    "link": "https://open.spotify.com/intl-es/track/1BPybPVkDfUjFDvqG04l58",
+                    "image": "https://i.scdn.co/image/ab67616d00001e022bd281188f485ea182f3bd84"
+                },
+                {
+                    "name": "Lose My Cool",
+                    "artist": "Amber Mark",
+                    "link": "https://open.spotify.com/intl-es/track/3G9zeErd0kMx012kmYUrm7",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02517c947f0f581bb61054dec2"
+                },
+                {
+                    "name": "The Sun",
+                    "artist": "Myd",
+                    "link": "https://open.spotify.com/intl-es/track/2hhVlIZmGEGfNeVIYnMUAG",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02d6c5044bfafc8e6879c0f5ae"
+                },
+                {
+                    "name": "Prisoner (feat. DuaLipa)",
+                    "artist": "Miley Cirus",
+                    "link": "https://open.spotify.com/intl-es/track/2Oycxb8QbPkpHTo8ZrmG0B",
+                    "image": "https://i.scdn.co/image/ab67616d00001e028cffb7c6c40759eaf8a5a142"
+                }
+            ]
+        },
+        {
+            "name": "Hannah",
+            "songs": [
+                {
+                    "name": "Float (feat. Seun Kuti & Egypt 80)",
+                    "artist": "Janelle Monáe",
+                    "link": "https://open.spotify.com/intl-es/track/2GLN3KJjmFhXG8mHGr6II0",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0231ac0ae08eb470692364f8b3"
+                },
+                {
+                    "name": "Never Going Back Again - 2004 Remaster",
+                    "artist": "Fleetwood Mac",
+                    "link": "https://open.spotify.com/intl-es/track/19Shlms2uTnOjIUg50TXzd",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b"
+                },
+                {
+                    "name": "Lipstick Lover",
+                    "artist": "Janelle Monáe",
+                    "link": "https://open.spotify.com/intl-es/track/6IhkXHtj7tJg5waF4utfX0",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0231ac0ae08eb470692364f8b3"
+                },
+                {
+                    "name": "The Rush (feat. Nia Long & Amaarae)",
+                    "artist": "Janelle Monáe",
+                    "link": "https://open.spotify.com/intl-es/track/7yLA0kPEYxI4ZEYuBwFecQ",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0231ac0ae08eb470692364f8b3"
+                },
+                {
+                    "name": "Champagne Shit",
+                    "artist": "Janelle Monáe",
+                    "link": "https://open.spotify.com/intl-es/track/5OhG7shUD0xgQMirbRAipe",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0231ac0ae08eb470692364f8b3"
+                }
+            ]
+        },
+        {
+            "name": "Carlos",
+            "songs": [
+                {
+                    "name": "El Bien",
+                    "artist": "Viva Suecia",
+                    "link": "https://open.spotify.com/intl-es/track/2y7b6A4hhl3ysYlU2kztGD",
+                    "image": "https://i.scdn.co/image/ab67616d00001e024baf720ef48044d2f8f336a8"
+                },
+                {
+                    "name": "Abajo",
+                    "artist": "Arde Bogotá",
+                    "link": "https://open.spotify.com/intl-es/track/45ucex4am8ru040h5mhxuo",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02b356e201b95d5fdf764ac7fd"
+                },
+                {
+                    "name": "Oh No :: He Said What?",
+                    "artist": "Nothing But Thieves",
+                    "link": "https://open.spotify.com/intl-es/track/7Gk8icymiW50sDfFbWLoVG",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0203f9882a733a60a615469782"
+                },
+                {
+                    "name": "Secrets in the Sunset",
+                    "artist": "Goodbye June",
+                    "link": "https://open.spotify.com/intl-es/track/41uhnX4iXKPzXTYw0C6Qqp",
+                    "image": "https://i.scdn.co/image/ab67616d00001e021f486fc32bcfc669f770923e"
+                },
+                {
+                    "name": "Found You",
+                    "artist": "Django Django",
+                    "link": "https://open.spotify.com/intl-es/track/11vTDizUttoqwZofrMDj2H",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02994c77baf9955847de4c88b0"
+                }
+            ]
+        },
+        {
+            "name": "Monika",
+            "songs": [
+                {
+                    "name": "FTCU",
+                    "artist": "Nicki Minaj",
+                    "link": "https://open.spotify.com/intl-es/track/1a73gcEg6h6Re6hHXoVltJ",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02651e1dbc0b5218f2306181a1"
+                },
+                {
+                    "name": "Me & U",
+                    "artist": "Cassie",
+                    "link": "https://open.spotify.com/intl-es/track/7k6IzwMGpxnRghE7YosnXT",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02f4c4ee507c2558262869f415"
+                },
+                {
+                    "name": "Out of Touch",
+                    "artist": "Daryl Hall & John Oates",
+                    "link": "https://open.spotify.com/intl-es/track/7zLGHdfJ3JRPxvc96mEPEi",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0256ce6584f5f6e58b2237f5d9"
+                },
+                {
+                    "name": "Love Bites (Feat. Tove Lo & SG Lewis) - Don Diablo Remix",
+                    "artist": "Nelly Furtado",
+                    "link": "https://open.spotify.com/intl-es/track/4DTjXbSEScWCuWKxzgsf73",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02944a9982c8e6180077e14b19"
+                },
+                {
+                    "name": "Thnks fr th Mmrs",
+                    "artist": "Fall Out Boy",
+                    "link": "https://open.spotify.com/intl-es/track/3Zwu2K0Qa5sT6teCCHPShP",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02da071ae7564949fbbfc6904d"
+                }
+            ]
+        },
+        {
+            "name": "Pedro",
+            "songs": [
+                {
+                    "name": "Little Black Submarines",
+                    "artist": "the Black Keys",
+                    "link": "https://open.spotify.com/intl-es/track/1PXsUXSM3LF2XNSkmIldPb",
+                    "image": "https://i.scdn.co/image/ab67616d00001e026a21b97de47168df4f0c1993"
+                },
+                {
+                    "name": "Lauren",
+                    "artist": "Men I Trust",
+                    "link": "https://open.spotify.com/intl-es/track/62zFcDLa1CjCY9yp6VO4ga",
+                    "image": "https://i.scdn.co/image/ab67616d00001e028c2b42ae9e6d13b5719a79ed"
+                },
+                {
+                    "name": "Only in My Dreams",
+                    "artist": "The Marías",
+                    "link": "https://open.spotify.com/intl-es/track/190IqlryWu91WBKeDgZqZz",
+                    "image": "https://i.scdn.co/image/ab67616d00001e020924b9c6232d2348d4efa0dc"
+                },
+                {
+                    "name": "I Don't Know You",
+                    "artist": "The Marías",
+                    "link": "https://open.spotify.com/intl-es/track/06cqIVC8kRAT02qfHQT65v",
+                    "image": "https://i.scdn.co/image/ab67616d00001e020924b9c6232d2348d4efa0dc"
+                },
+                {
+                    "name": "I Like It",
+                    "artist": "The Marías",
+                    "link": "https://open.spotify.com/intl-es/track/3Vm6yiTPfhFeUHD4gt42cZ",
+                    "image": "https://i.scdn.co/image/ab67616d00001e020924b9c6232d2348d4efa0dc"
+                }
+            ]
+        },
+        {
+            "name": "Esteban",
+            "songs": [
+                {
+                    "name": "Perfect (Exceeder) [Mix Cut] - Vocal Club Mix",
+                    "artist": "Mason",
+                    "link": "https://open.spotify.com/intl-es/track/4wfDTyTss4m46JBv2oXHKl",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0294d7da44f591878796a2253f"
+                },
+                {
+                    "name": "Heal Me - Biscits Remix",
+                    "artist": "Farr",
+                    "link": "https://open.spotify.com/intl-es/track/1ld3ibWlGwo4oBFPb6pmKk",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02f1253227ffa296260fa17bff"
+                },
+                {
+                    "name": "Alone (feat. FEMME)",
+                    "artist": "Cristoph",
+                    "link": "https://open.spotify.com/intl-es/track/6dsoPBbMuUodSUvhRW7Vr4",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0286c293240dc6539cca7b3301"
+                },
+                {
+                    "name": "I Remember - John Summit Remix",
+                    "artist": "deadmau5",
+                    "link": "https://open.spotify.com/intl-es/track/7EroGeDg1uteOaQ45Ftfiz",
+                    "image": "https://i.scdn.co/image/ab67616d00001e021d0829e89921438f9729f5ef"
+                },
+                {
+                    "name": "RIP",
+                    "artist": "Apashe",
+                    "link": "https://open.spotify.com/intl-es/track/4E4SKAGDK6lpb6Hc33hUoN",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0229fd925f8fb4a44dc58811a6"
+                }
+            ]
+        },
+        {
+            "name": "Todd",
+            "songs": [
+                {
+                    "name": "Bellbottoms",
+                    "artist": "The Jon Spencer Blues Explosion",
+                    "link": "https://open.spotify.com/intl-es/track/6NJQpFNkDCMaRBogIi9sOI",
+                    "image": "https://i.scdn.co/image/ab67616d00001e026cda41c43601ec82ed81fd3a"
+                },
+                {
+                    "name": "Shot in the Dark",
+                    "artist": "John Mayer",
+                    "link": "https://open.spotify.com/intl-es/track/239yM7BAQ2CkNc61ogPGXo",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02779063301154e835a91a35e0"
+                },
+                {
+                    "name": "Mystify",
+                    "artist": "INXS",
+                    "link": "https://open.spotify.com/intl-es/track/1teL5em5cNGwVS4l5f8wjg",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02dac4efc0ebdfd9d92f127129"
+                },
+                {
+                    "name": "Smooth Operator",
+                    "artist": "Sade",
+                    "link": "https://open.spotify.com/intl-es/track/7pLuEMFougkSHXrPBtNxTR",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02ad27e16c5f844ea1ad6797cd"
+                },
+                {
+                    "name": "Arizona",
+                    "artist": "Carter Vail",
+                    "link": "https://open.spotify.com/intl-es/track/0UFauTqBCI8YbOJuzFhvzp",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02e124f2df03695aa62517dcfb"
+                }
+            ]
+        },
+        {
+            "name": "Hasna",
+            "songs": [
+                {
+                    "name": "Boreal Forest",
+                    "artist": "Mammal Hands",
+                    "link": "https://open.spotify.com/intl-es/track/6rihywZn0l3Gc3ggHrmNis",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02eeeaef04af7fe10e6e6b5219"
+                },
+                {
+                    "name": "Day 5 Midnight Jazz",
+                    "artist": "Tryangle Man",
+                    "link": "https://open.spotify.com/intl-es/track/6UCnhTXDwRLApe7ezs9MV1",
+                    "image": "https://i.scdn.co/image/ab67616d00001e028d46830f697408745a30c96c"
+                },
+                {
+                    "name": "Lucid Dream",
+                    "artist": "Rone",
+                    "link": "https://open.spotify.com/intl-es/track/3wjZcdyDSlWUHcHMLmFEo9",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02ceda84814f0f0849f7c4368f"
+                },
+                {
+                    "name": "Out of Reach",
+                    "artist": "Fakear",
+                    "link": "https://open.spotify.com/intl-es/track/2OPzBDNfY1Qx4FkHQcLgci",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0298865173379fdd5283d1e4dc"
+                },
+                {
+                    "name": "Midsummer Night Blues",
+                    "artist": "Waldeck",
+                    "link": "https://open.spotify.com/intl-es/track/7l3vWdbYRnYVmlBED0FJlw",
+                    "image": "https://i.scdn.co/image/ab67616d00001e023d24ade95e9294476bc06e0c"
+                }
+            ]
+        },
+        {
+            "name": "Shreya",
+            "songs": [
+                {
+                    "name": "Raga Madhmad Sarang",
+                    "artist": "Veena Sahasrabuddhe",
+                    "link": "https://open.spotify.com/intl-es/track/4zJu0f7WZAAF2umyLU8cNR",
+                    "image": "https://i.scdn.co/image/ab67616d00001e027f9f4db2dfa3ced585731f77"
+                },
+                {
+                    "name": "Badi Dheere Jali",
+                    "artist": "Rehkha Bhardwaj",
+                    "link": "https://open.spotify.com/intl-es/track/2VgmwOgWxNkfT4vvA7eJ5E",
+                    "image": "https://i.scdn.co/image/ab67616d00001e0223ab22507817d5981ebb2f47"
+                },
+                {
+                    "name": "Phir Le Aya Dil",
+                    "artist": "Pritam",
+                    "link": "https://open.spotify.com/intl-es/track/2OvldWM8rVnp7QCn9eCrr1",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02352f44aed6f226c6ea28b961"
+                },
+                {
+                    "name": "Rung",
+                    "artist": "Ali Sethi",
+                    "link": "https://open.spotify.com/intl-es/track/2l8dzvr7GvMG8hdykjeiIi",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02322c94674fa122b9594c529a"
+                },
+                {
+                    "name": "Can't Fool Me Now",
+                    "artist": "Scout Niblett",
+                    "link": "https://open.spotify.com/intl-es/track/73fvBpL94v2AXoGk2h51sa",
+                    "image": "https://i.scdn.co/image/ab67616d00001e02a3ccb27b838111349a7f4fd6"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "songs": [
+                {
+                    "name": "",
+                    "artist": "",
+                    "link": "",
+                    "image": ""
+                },
+                {
+                    "name": "",
+                    "artist": "",
+                    "link": "",
+                    "image": ""
+                },
+                {
+                    "name": "",
+                    "artist": "",
+                    "link": "",
+                    "image": ""
+                },
+                {
+                    "name": "",
+                    "artist": "",
+                    "link": "",
+                    "image": ""
+                },
+                {
+                    "name": "",
+                    "artist": "",
+                    "link": "",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
