@@ -1,0 +1,64 @@
+<app-fill-page>
+  <div slot="header">
+    <app-header>
+      <div slot="begin" class="headerSection">
+        <img class="icon" src="./assets/img/spopar.png">
+        <span class="text">Spotify Day {{year}}</span>
+      </div>
+      <div slot="end" class="headerSection">
+        <a class="headerSection" [href]="spotifyUrl" target="_blank">
+          <span class="text small">Playlist</span>
+          <img class="icon" src="./assets/img/spotify.png">
+        </a>
+      </div>
+    </app-header>
+  </div>
+
+  @if (spotifyEmbedUrl) {
+  <div slot="body" class="container containerSpotify" [class.hidden]="!spotifyMode">
+      <iframe #spotifyIframe
+        data-testid="embed-iframe"
+        style="border-radius: 12px"
+        [src]="spotifyEmbedUrl"
+        width="100%"
+        height="153"
+        frameBorder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+        (error)="spotifyMode = false"
+      ></iframe>
+    </div>
+  }
+
+  @if(data) {
+  <div slot="body" class="container containerPeople">
+    @for(person of data.people; track $index) {
+    <app-selectable-button
+      [text]="person.name"
+      [selected]="$index === selectedPersonIndex"
+      (click)="selectPerson(person, $index)"
+    ></app-selectable-button>
+    }
+  </div>
+  }
+
+  @if(selectedPerson) {
+  <div #songs slot="body" appFillContent class="container containerSongs">
+    @for(song of selectedPerson.songs; track $index) {
+    <app-tilted-card
+      class="songCard"
+      [backgroundImage]="song.imageBase64 || ''"
+      [zoomLevel]="1.1"
+      [tiltLevel]="1.25"
+      (click)="songSelected(song)"
+    >
+      <div class="songInfo">
+        <span class="songInfoItem">{{ song.name }}</span>
+        <span class="songInfoItem">{{ song.artist }}</span>
+      </div>
+    </app-tilted-card>
+    }
+  </div>
+  }
+</app-fill-page>

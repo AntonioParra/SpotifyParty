@@ -1,5 +1,6 @@
 export type YearData = {
     year: number,
+    playlist: string,
     people: Person[]
 }
 
@@ -12,5 +13,6 @@ export type Song = {
     name: string,
     artist: string,
     link: string,
-    image: string
+    image: string,
+    imageBase64?: string
 }

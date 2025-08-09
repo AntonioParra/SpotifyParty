@@ -1,0 +1,25 @@
+<app-fill-page>
+  <div slot="header">
+    <app-header>
+      <div slot="begin" class="headerSection">
+        <img class="icon" src="./assets/img/spopar.png">
+        <span class="text">Spotify Day</span>
+      </div>
+      <div slot="end" class="headerSection">
+        <a class="headerSection" href="https://open.spotify.com/user/31m7y6igjkkduklo2lwptxgo4ni4" target="_blank">
+          <span class="text small">Playlists</span>
+          <img class="icon" src="./assets/img/spotify.png">
+        </a>
+      </div>
+    </app-header>
+  </div>
+
+  <div slot="body" class="yearsContainer" appFillContent>
+    <div class="yearsContainerInner">
+    @for (item of data; track $index) {
+      <app-year-text  class="year" [text]="item.year" [imgSrc]="item.imgSrc" (click)="navToYear(item.year)"></app-year-text>
+    }
+    </div>
+    
+  </div>
+</app-fill-page>

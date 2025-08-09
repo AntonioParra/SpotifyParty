@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'reset.css';
+
+@font-face {
+    font-family: "spotify";
+    src: url("./assets/fonts/SpotifyMixRegular.woff2") format('woff2');
+}
+
+:root {
+    font-family: spotify;
+
+    
+    --color: #ffffff;
+    --primary: #aaf9d9;
+    --secondary: #f9ca2f;
+    --primary-back: #2f4858;
+    --secondary-back: #a48e5c;
+}
+
+* {
+    color: var(--color);
+
+    &::selection {
+        background-color: transparent;
+    }
+}
+
+
+
+.hidden {
+    display: none !important;
+}

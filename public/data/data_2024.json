@@ -1,5 +1,6 @@
 {
     "year": 2024,
+    "playlist": "6xXnqwmX6m3DR3bChVZRSE",
     "people": [
         {
             "name": "Marta",
@@ -348,41 +349,6 @@
                     "artist": "Scout Niblett",
                     "link": "https://open.spotify.com/intl-es/track/73fvBpL94v2AXoGk2h51sa",
                     "image": "https://i.scdn.co/image/ab67616d00001e02a3ccb27b838111349a7f4fd6"
-                }
-            ]
-        },
-        {
-            "name": "",
-            "songs": [
-                {
-                    "name": "",
-                    "artist": "",
-                    "link": "",
-                    "image": ""
-                },
-                {
-                    "name": "",
-                    "artist": "",
-                    "link": "",
-                    "image": ""
-                },
-                {
-                    "name": "",
-                    "artist": "",
-                    "link": "",
-                    "image": ""
-                },
-                {
-                    "name": "",
-                    "artist": "",
-                    "link": "",
-                    "image": ""
-                },
-                {
-                    "name": "",
-                    "artist": "",
-                    "link": "",
-                    "image": ""
                 }
             ]
         }

@@ -1,0 +1,32 @@
+.yearText {
+  // border: 1px solid red;
+
+  width: 330px;
+  height: 200px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  background-size: cover;
+  background-clip: text;
+
+  .text {
+    
+    cursor: pointer;
+    color: transparent;
+
+    font-size: 110px;
+    font-weight: bold;
+    // -webkit-text-stroke-width: 2px;
+    // -webkit-text-stroke-color: var(--primary);
+
+
+    transition: font-size 0.5s;
+
+    &:hover {
+      font-size: 140px;
+    }
+  }
+}

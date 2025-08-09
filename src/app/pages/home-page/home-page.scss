@@ -1,0 +1,59 @@
+.headerSection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+
+    a {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+        
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .text {
+        font-size: 1.5rem;
+
+        &.small {
+            font-size: 1rem;
+        }
+    }
+    .icon {
+        height: 40px;
+    }
+}
+
+.yearsContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+
+  .yearsContainerInner {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+
+    min-height: 300px;
+    width: 100%;
+
+    // background: rgba(127, 127, 127, 0.2);
+    background-color: var(--primary-back);
+    border-top: 3px solid var(--secondary);
+    border-bottom: 3px solid var(--secondary);
+
+    .year {
+      margin: 1rem;
+      padding: 0 1rem;
+    }
+  }
+}

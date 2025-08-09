@@ -1,0 +1,23 @@
+:host {
+  display: block;
+  height: 100dvh; 
+}
+
+.fill-page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.fill-page__header {
+  flex: 0 0 auto;
+  
+}
+
+.fill-page__body {
+  flex: 1 1 auto;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.card {
+  width: 220px;
+  height: 220px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+  transition: transform 0.2s ease-out;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  will-change: transform;
+  transform-style: preserve-3d;
+  overflow: hidden;
+  padding: 1rem;
+}

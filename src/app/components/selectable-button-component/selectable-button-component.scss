@@ -1,0 +1,53 @@
+.selectable-button {
+  position: relative;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #222;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  overflow: hidden;
+  z-index: 0;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #333;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    z-index: -1;
+    border-radius: 12px;
+    background: linear-gradient(60deg, var(--primary), var(--secondary), var(--primary));
+    background-size: 900% 900%;
+    animation: borderAnimation 20s linear infinite;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+
+
+  &.selected{
+    color: #222;
+
+    &::before {
+        opacity: 1;
+    }
+  }
+  
+  
+}
+
+@keyframes borderAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
