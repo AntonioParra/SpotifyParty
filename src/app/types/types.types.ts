@@ -1,6 +1,8 @@
 export type YearData = {
     year: number,
     playlist: string,
+    buttonColor: string;
+    backColor: string,
     people: Person[]
 }
 

@@ -2,7 +2,7 @@
   <div slot="header">
     <app-header>
       <div slot="begin" class="headerSection">
-        <img class="icon" src="./assets/img/spopar.png">
+        <img class="icon" [src]="`./assets/img/spopar${year}.png`">
         <span class="text">Spotify Day {{year}}</span>
       </div>
       <div slot="end" class="headerSection">

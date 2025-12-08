@@ -47,6 +47,9 @@ export class YearPage {
         this.data = data;
         this.spotifyUrl = this.sanitizer.bypassSecurityTrustResourceUrl(`https://open.spotify.com/playlist/${data.playlist}`);
         this.spotifyEmbedUrl = this.sanitizer.bypassSecurityTrustResourceUrl(`https://open.spotify.com/embed/playlist/${data.playlist}?utm_source=generator`);
+
+        document.documentElement.style.setProperty("--primary", data.buttonColor);
+        document.documentElement.style.setProperty("--primary-back", data.backColor);
       });
     });
 

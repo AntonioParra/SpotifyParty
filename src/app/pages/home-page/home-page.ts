@@ -25,6 +25,10 @@ export class HomePage {
     private router: Router
   ) {}
 
+  ngOnInit() {
+    document.documentElement.style.setProperty("--primary-back", "#2f4858");
+  }
+
   navToYear(year: string) {
     this.router.navigateByUrl(year)
   }
